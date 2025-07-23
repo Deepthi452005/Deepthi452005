@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Deepu Deepthi  <br><br>🎓 A passionate **Cybersecurity student** driven by curiosity and the desire to **secure the digital world**.  <br>🔐 I am focused on **Ethical Hacking**, **Network Security**, and **Defensive/Offensive Security** practices.</p>
+<p align="left">👋 Hello, I'm Deepthi  <br><br>🎓 A passionate **Cybersecurity student** driven by curiosity and the desire to **secure the digital world**.  <br>🔐 I am focused on **Ethical Hacking**, **Network Security**, and **Defensive/Offensive Security** practices.</p>
 
 ###
 
